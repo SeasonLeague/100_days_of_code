@@ -33,3 +33,15 @@ $ pi = 3.14
 ~~~
 $ Area: 314.0
 ~~~
+
+---
+
+## EXERCISE 4
+Write a program that calculates the future value of 1000 USD with an interest rate of 3%, annual capitilization and a 5 year investment period. Round the result to the nearest cent.
+
+### TIP
+- Use compund capilization of interest and print the result to the console as shown below.
+
+~~~
+$ The future value of the investment: 1159.27 USD
+~~~
