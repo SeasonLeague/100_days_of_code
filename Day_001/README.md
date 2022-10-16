@@ -17,5 +17,19 @@ Assign two variables that store the following values:
 2. 30 lbs - product weight (int)
 
 ### Using the f string formatting style, print to the console the following message:
-* Price: $42.99. Weight: 30 lbs.*
+* Price: $42.99. Weight: 30 lbs.
 
+___
+
+## EXERCISE 3
+Write a program that calculates the area of a circle with a radius = 10. Use an approximate value of pi:
+
+~~~
+$ pi = 3.14
+~~~
+
+#### Expected Result 
+
+~~~
+$ Area: 314.0
+~~~
