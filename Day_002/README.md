@@ -28,10 +28,21 @@ $ The sum of the first 10 elements in a sequence: 320.0
 ~~~
 
 
+## EXERCISE 3
 
+- The geometric sequence is given with the following formula:
 
+~~~
+$ an = 8.2 raise to power n - 1
+~~~
 
+#### Calculate the sum of the first six elements of this sequence. Print the result to the console as shown below.
 
+##### Expected Results 
+
+~~~
+$ The sum of the first 6 elements of the sequence is: 504.0
+~~~
 
 
 
