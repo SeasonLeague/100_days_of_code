@@ -12,3 +12,38 @@ $ Delta: 4
 
 ### GOODLUCK
 ---
+
+## EXERCISE 2 
+
+- The arithmetic sequence is given with the following formula:
+
+~~~
+$ an = 10 + 4n 
+~~~
+
+#### Expected Result
+
+~~~
+$ The sum of the first 10 elements in a sequence: 320.0
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
